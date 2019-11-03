@@ -12,3 +12,5 @@ https://colors.ichuantong.cn/ 或 http://zhongguose.com/#baoshilan 中国传统�
 https://docker-curriculum.com/ Docker 学习网站
 
 http://geekdocs.cn/ 很全的程序员工具网站导航
+
+https://github.com/ossu/computer-science#intro-cs 一个学习CS的全网络资源课程
