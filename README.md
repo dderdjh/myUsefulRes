@@ -16,3 +16,5 @@ http://geekdocs.cn/ 很全的程序员工具网站导航
 https://github.com/ossu/computer-science#intro-cs 一个学习CS的全网络资源课程
 
 https://cssicon.space/#/animate/chat/to/battery-3 用纯CSS画图标还可以动画化
+
+https://leetcode.wang/leetCode-1-Two-Sum.html LeetCode 前30题解答
