@@ -18,3 +18,7 @@ https://github.com/ossu/computer-science#intro-cs 一个学习CS的全网络资�
 https://cssicon.space/#/animate/chat/to/battery-3 用纯CSS画图标还可以动画化
 
 https://leetcode.wang/leetCode-1-Two-Sum.html LeetCode 前30题解答
+
+https://www.tutorialist.io/ 整合youtube上的开发教程
+
+https://s-matyukevich.github.io/raspberry-pi-os/ 用raspberry pi 学习操作系统开发
